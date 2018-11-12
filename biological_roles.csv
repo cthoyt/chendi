@@ -1,0 +1,90 @@
+Identifier,Predicate,Biological Role
+CHENDI00001,has_role,Inhibitor of tau aggregation
+CHENDI00002,has_role,Inhibitor of tau aggregation
+CHENDI00003,has_role,Inhibitor of tau aggregation
+CHENDI00004,has_role,Inhibitor of tau aggregation
+CHENDI00005,has_role,Inhibitor of tau aggregation
+CHENDI00006,has_role,Inhibitor of tau aggregation
+CHENDI00007,has_role,Inhibitor of tau aggregation
+CHENDI00008,has_role,Inhibitor of tau aggregation
+CHENDI00009,has_role,Inhibitor of tau aggregation
+CHENDI00010,has_role,Inhibitor of tau aggregation
+CHENDI00011,has_role,Inhibitor of tau aggregation
+CHENDI00012,has_role,Inhibitor of tau aggregation
+CHENDI00013,has_role,Inhibitor of tau aggregation
+CHENDI00014,has_role,Inhibitor of tau aggregation
+CHENDI00015,has_role,Inhibitor of tau aggregation
+CHENDI00016,has_role,Inhibitor of tau aggregation
+CHENDI00017,has_role,Inhibitor of tau aggregation
+CHENDI00018,has_role,Inhibitor of tau aggregation
+CHENDI00019,has_role,GSK3B Inhibitor
+CHENDI00019,has_role,CDK5 Inhibitor
+CHENDI00020,has_role,GSK3B Inhibitor
+CHENDI00020,has_role,CDK5 Inhibitor
+CHENDI00021,has_role,GSK3B Inhibitor
+CHENDI00021,has_role,CDK5 Inhibitor
+CHENDI00022,has_role,GSK3B Inhibitor
+CHENDI00023,has_role,CDK5 Inhibitor
+CHENDI00024,has_role,CDK5 Inhibitor
+CHENDI00025,has_role,GSK3B Inhibitor
+CHENDI00026,has_role,GSK3B Inhibitor
+CHENDI00026,has_role,Syk kinase Inhibitor
+CHENDI00027,has_role,DYRK1A Inhibitor
+CHENDI00028,has_role,GSK3B Inhibitor
+CHENDI00029,has_role,CDK5 Inhibitor
+CHENDI00029,has_role,GSK3B Inhibitor
+CHENDI00029,has_role,Reduce Tau phosphorylation
+CHENDI00030,has_role,CDK5 Inhibitor
+CHENDI00030,has_role,GSK3B Inhibitor
+CHENDI00030,has_role,Reduce Tau phosphorylation
+CHENDI00031,has_role,GSK3B Inhibitor
+CHENDI00032,has_role,GSK3B Inhibitor
+CHENDI00033,has_role,GSK3B Inhibitor
+CHENDI00034,has_role,DYRK1A Inhibitor
+CHENDI00034,has_role,Neprilysin (MME) Upregulation
+CHENDI00035,has_role,GSK3B Inhibitor
+CHENDI00036,has_role,GSK3B Inhibitor
+CHENDI00037,has_role,GSK3B Inhibitor
+CHENDI00038,has_role,GSK3B Inhibitor
+CHENDI00039,has_role,GSK3B Inhibitor
+CHENDI00040,has_role,GSK3B Inhibitor
+CHENDI00041,has_role,CDK5 Inhibitor
+CHENDI00041,has_role,Inhibitor of MARK kinase activity
+CHENDI00041,has_role,. Reduces Tau phosphorylation at Ser262
+CHENDI00042,has_role,DYRK inhibitor
+CHENDI00043,has_role,HSP90 inhibitor
+CHENDI00044,has_role,MEK inhibitor
+CHENDI00045,has_role,OGA inhibitor
+CHENDI00046,has_role,Reduce Tau phosphorylation
+CHENDI00047,has_role,Reduce Tau phosphorylation
+CHENDI00048,has_role,ERK inhibitor
+CHENDI00048,has_role,p38 inhibitor
+CHENDI00048,has_role,AKT inhibitor
+CHENDI00049,has_role,Biomarker for AD
+CHENDI00050,has_role,Reduce Tau phosphorylation
+CHENDI00051,has_role,Reduce Tau phosphorylation
+CHENDI00052,has_role,Reduce Tau phosphorylation
+CHENDI00053,has_role,PME inhibitor
+CHENDI00054,has_role,Histone deacetylase inhibitor
+CHENDI00055,has_role,Reduce Tau phosphorylation
+CHENDI00056,has_role,Phosphodiesterase inhibitor
+CHENDI00056,has_role,Inhibitor of tau aggregation
+CHENDI00057,has_role,EP300 Inhibitor
+CHENDI00058,has_role,Histone deacetylase inhibitor
+CHENDI00059,has_role,HDAC6 Inhibitor
+CHENDI00060,has_role,HDAC6 Inhibitor
+CHENDI00061,has_role,Histone deacetylase inhibitor
+CHENDI00062,has_role,PCAF Inhibitor
+CHENDI00062,has_role,NFkappaB Inhibitor
+CHENDI00063,has_role,EP300 Inhibitor
+CHENDI00064,has_role,Inhibitor of Tau acetylation
+CHENDI00065,has_role,Reduce Tau phosphorylation
+CHENDI00065,has_role,GSK3B Inhibitor
+CHENDI00065,has_role,Histone deacetylase inhibitor
+CHENDI00065,has_role,Phosphodiesterase inhibitor
+CHENDI00066,has_role,HDAC3 Inhibitor
+CHENDI00067,has_role,MAP2K1 Inhibitor
+CHENDI00068,has_role,Histone deacetylase inhibitor
+CHENDI00069,has_role,HDAC6 Inhibitor
+CHENDI00070,has_role,HDAC6 Inhibitor
+CHENDI00070,has_role,Reduce Tau phosphorylation
